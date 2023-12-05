@@ -1,2 +1,2 @@
 # odin-recipes
-First HTML project project from Odin Project
+First HTML project from Odin Project
